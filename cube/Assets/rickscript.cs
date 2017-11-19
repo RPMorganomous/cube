@@ -13,4 +13,5 @@ public class rickscript : MonoBehaviour {
 	void Update () {
 		
 	}
+	// one quick change
 }
