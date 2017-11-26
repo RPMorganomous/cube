@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\rmorgan\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_cube.-1918748528.00" t="ExcludeRecursive" />
-    <e p="C:\Users\rmorgan\RiderProjects\cube\cube" t="IncludeRecursive">
+    <e p="C:\Users\rick\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_cube.-108736979.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rick\Documents\Atomus Games\cube\cube" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Legs.cs" t="Include" />
-        <e p="LegsDefault.cs" t="Include" />
-        <e p="PlayerController.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
             <e p="JetBrains" t="Include">
@@ -16,6 +13,7 @@
             </e>
           </e>
         </e>
+        <e p="rickscript.cs" t="Include" />
       </e>
       <e p="cube.sln" t="IncludeFlat" />
       <e p="Library" t="ExcludeRecursive" />
